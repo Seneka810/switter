@@ -1,0 +1,12 @@
+com\example\switter\domain\Role.class
+com\example\switter\domain\User.class
+com\example\switter\domain\Message.class
+com\example\switter\Application.class
+com\example\switter\controller\MainController.class
+com\example\switter\controller\UserController.class
+com\example\switter\repos\UserRepo.class
+com\example\switter\config\MvcConfig.class
+com\example\switter\controller\RegistrationController.class
+com\example\switter\repos\MessageRepo.class
+com\example\switter\config\WebSecurityConfig.class
+com\example\switter\service\UserService.class
